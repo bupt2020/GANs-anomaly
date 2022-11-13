@@ -1,1 +1,1 @@
-# RL-Anomaly
+# GANs-Anomaly
